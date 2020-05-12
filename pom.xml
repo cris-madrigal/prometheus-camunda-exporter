@@ -50,7 +50,7 @@
 		<dependency>
 			<groupId>io.prometheus</groupId>
 			<artifactId>simpleclient</artifactId>
-			<version>0.0.26</version>
+			<version>0.9.0</version>
 		</dependency>
 
 		<dependency>
